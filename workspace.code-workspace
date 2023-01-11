@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\try"
+		},
+		{
+			"path": "..\\code_chef"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
